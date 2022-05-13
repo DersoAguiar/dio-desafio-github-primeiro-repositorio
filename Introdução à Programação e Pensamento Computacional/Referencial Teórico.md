@@ -1,8 +1,6 @@
 # Referencial Teórico
 
-### Curso Ministrado pela Juliana Mascarenhas - https://github.com
-
-/julianazanelatto
+### Curso Ministrado pela Juliana Mascarenhas - https://github.com/julianazanelatto
 
 - Livro: Fundamentos da programação de computadores – Pearson
 - José Augusto Manzano, Algoritmos -
